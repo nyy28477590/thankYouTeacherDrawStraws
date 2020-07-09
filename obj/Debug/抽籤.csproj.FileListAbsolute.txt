@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\抽籤\抽籤\bin\Debug\抽籤.exe.config
+C:\Users\user\source\repos\抽籤\抽籤\bin\Debug\抽籤.exe
+C:\Users\user\source\repos\抽籤\抽籤\bin\Debug\抽籤.pdb
+C:\Users\user\source\repos\抽籤\抽籤\obj\Debug\抽籤.csprojAssemblyReference.cache
+C:\Users\user\source\repos\抽籤\抽籤\obj\Debug\抽籤.Form1.resources
+C:\Users\user\source\repos\抽籤\抽籤\obj\Debug\抽籤.Properties.Resources.resources
+C:\Users\user\source\repos\抽籤\抽籤\obj\Debug\抽籤.csproj.GenerateResource.cache
+C:\Users\user\source\repos\抽籤\抽籤\obj\Debug\抽籤.exe
+C:\Users\user\source\repos\抽籤\抽籤\obj\Debug\抽籤.pdb
